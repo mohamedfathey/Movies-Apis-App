@@ -80,7 +80,7 @@ public class MovieController {
         return ResponseEntity.ok(movieService.getAllMoviesWithPaginationAndSorting(pageNumber,pageSize,sortBy,dir));
     }
 
-g
+
 
 
 
